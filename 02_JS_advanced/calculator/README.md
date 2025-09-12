@@ -1,4 +1,4 @@
 # Calculator
 
 ## Aufgabenstellung
-Erstellen Sie in ein HTML-File, das zwei Werte mit +, -, *, / (je nach Auswahl) zusammenrechnet und das Resultat darstellt.
+Erstelle ein HTML-File, das zwei Zahlen-Werte mit +, -, *, / (je nach Auswahl) zusammenrechnet und das Resultat darstellt.

@@ -17,13 +17,13 @@ Tailwind CSS ermöglicht es Designs zu erstellen, indem man viele kleine Utility
 - **Framework-Abhängigkeit**: Bindung an Tailwind-spezifische Klassen
 
 ## Aufgabenstellung
-Erweitere die bestende `index.html`. Wie du siehst, ist eine Liste von Blog-Posts vorhanden. Style diese mit Tailwind. Nutze dabei ausschleisslich Tailwindklassen und keine eigenen CSS-Regeln. Ein Beispiel für Styling mit Tailwind CSS ist shcon vorhanden.
+Erweitern Sie die bestende `index.html`. Wie Sie sehen, ist eine Liste von Blog-Posts vorhanden. Stylen Sie diese mit Tailwind. Nutzen Sie dabei ausschleisslich Tailwindklassen und keine eigenen CSS-Regeln. Ein Beispiel für Styling mit Tailwind CSS ist shcon vorhanden.
 
 ### Vorgehen
-1. Studiere die [Tailwind-Dokumentation](https://tailwindcss.com/docs) für verfügbare Klassen.
-2. Erweitere die bestehende HTML-Struktur in `index.html`
-3. Probiere verschiedene Utility-Klassen aus und kombiniere sie kreativ
-4. Teste das responsive Verhalten in verschiedenen Browser-Größen
+1. Studieren Sie die [Tailwind-Dokumentation](https://tailwindcss.com/docs) für verfügbare Klassen.
+2. Erweitern Sie die bestehende HTML-Struktur in `index.html`
+3. Probieren Sie verschiedene Utility-Klassen aus und kombinieren Sie sie kreativ
+4. Testen Sie das responsive Verhalten in verschiedenen Browser-Größen
 
 ### Referenz
 Die Tailwind-Integration erfolgt über das CDN im `<head>`:
